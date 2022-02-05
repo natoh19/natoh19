@@ -1,7 +1,7 @@
 ### Hi there 👋 and welcome!
 
 
-I'm Natalie Oldroyd, App Academy full-stack software engineering graduate and former e-commerce business owner. I'm looking for a software engineering role. Let's build something amazing!
+I'm Natalie Oldroyd, App Academy full-stack software engineering graduate and former e-commerce business owner. Currently working as a software engineer at Expedia Group.
 
 ---
 
@@ -26,7 +26,7 @@ I'm Natalie Oldroyd, App Academy full-stack software engineering graduate and fo
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white%22%3E" />
-  
+<img src="https://img.shields.io/badge/kotlin-230095D5?style=for-the-badge&logo=kotlin&logoColor=white%22%3E" />
 </div>
 
 ### Connect With Me
