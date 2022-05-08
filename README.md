@@ -1,7 +1,7 @@
 ### Hi there 👋 and welcome!
 
 
-I'm Natalie Oldroyd, App Academy full-stack software engineering graduate and former e-commerce business owner. Currently working as a software engineer at Expedia Group.
+I'm Natalie Oldroyd, full-stack software engineer.
 
 ---
 
