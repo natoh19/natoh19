@@ -5,16 +5,6 @@ I'm Natalie Oldroyd, full-stack software engineer.
 
 ---
 
-
-
-<div style="width: 100%, display:flex">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=natoh19&show_icons=true&theme=radical&border_radius=30&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natoh19&theme=radical&border_radius=30&count_private=true" />
-</div>
-
-
-
-
 ### Technologies
 <div style="display:flex">
 
