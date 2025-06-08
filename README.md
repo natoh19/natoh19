@@ -17,6 +17,7 @@ I'm Natalie Oldroyd, full-stack software engineer.
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white%22%3E" />
 <img src="https://img.shields.io/badge/kotlin-230095D5?style=for-the-badge&logo=kotlin&logoColor=white%22%3E" />
+<img src = "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </div>
 
 ### Connect With Me
